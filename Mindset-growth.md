@@ -1,4 +1,4 @@
- # Mindset
+# Mindset
 ## Background
 _**Mindset**_ can be defined as a way in which people percive about themselves. It is self-asumption or method held by _one_ or _more people_ or a _group of people_.
 ### Mindset growth
