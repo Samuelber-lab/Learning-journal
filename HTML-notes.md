@@ -25,4 +25,7 @@ CSS allows the user to create rules that specify how the content of an HTML elem
 # chapter 17
 ## HTML5 layout
 For a long period of time, web page developers used `<dev>` elements to group related elements together on the page (such as elements that form a header, an article, footer or sidebar). Developers used class or ID attributes to indicate the role of the `<div>` elements in the stricture of the page. 
-HTML5, however, has come up with a new feature or set of elements that allow the developers to divide up parts of the page. The names of these elements indicate the kind of content the user will find in them. As a result, there are numerous developers using this version of HTML.  
+HTML5, however, has come up with a new feature or set of elements that allow the developers to divide up parts of the page. The names of these elements indicate the kind of content the user will find in them. As a result, there are numerous developers using this version of HTML. 
+
+# Reference
+Jon Duckett (2011). HTML and CSS: design and build websites. John Wiley and Sons, Inc. Indianapolis, Indiana.
