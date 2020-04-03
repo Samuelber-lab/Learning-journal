@@ -15,7 +15,7 @@ GitHub’s collaboration workflow revolves around Pull Requests. Below are the w
 1. Confer with team and perform additional commits, if applicable.
 1. The project owner closes or merges the Pull Request.
 
-![Git vs Github](/Users/samuel/Documents/Code_fellows/102/Learning-journal/Gitvs.Github-1a.jpg)
+![Git vs Github](Learning-journal/Gitvs.Github-1a.jpg)
 
 
 
