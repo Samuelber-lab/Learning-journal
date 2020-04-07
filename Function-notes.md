@@ -33,4 +33,9 @@ There is just one string operator: the `+` symbol. It is used to join the string
 
 
 
+# <ins> Reference </ins>
+Jon Duckett (2014). JAVASCRIPT & JQUERY: interactive front-end web development. John Wiley & Sons, Inc., Indianapolis.
+
+
+
 
