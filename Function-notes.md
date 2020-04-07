@@ -29,6 +29,6 @@ There is just one string operator: the `+` symbol. It is used to join the string
  If you need to ask the function to perform its task later, you need to give your function a name. This name should describe the task it is performing. Some functions are needed to be provided with the information in order to achieve a given task. Pieces of information passed to a function to perform a certain task is called **parameters**. 
  To create a function, it needs to be given with a name and write a statement needed to achieve its task inside a curly braces. This process is known as **function declaration**. When a function is run/ executed to perform a task, it is called **calling the function**. When a function is called by its name, the statment represented by it will run. When a function is written and run, an answer will be given, the response is known as a **return value**. 
 
-
+![funtion: methods and objects](Slide1.png)
 
 
