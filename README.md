@@ -7,3 +7,4 @@
 1. [CSS note](CSS-notes.md)
 1. [note on JavaScript](JavaScripting-note.md)
 1. [note on functions](Function-notes.md)
+1. [note on computer architecture and logic](Computer-architecture-and-logic.md)
