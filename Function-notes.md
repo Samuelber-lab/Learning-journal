@@ -5,8 +5,8 @@ It is a series of instructions that a computer can follow to acheive a desired g
 1. code each step in a very detailed way
 # Expressions
 An expression evaluates into (results in) a single value. Therein, broadly speaking, there are two types of expressions:
-1. expressions that just assign a value to a variable
-1. expression that use two or more value to return a single value
+- expressions that just assign a value to a variable
+- expression that use two or more value to return a single value
 Expressions relay on things known as operators, so that ther allow programmers to to create a single value from one or more values. In this regard, we can classify operators into 
 - assignment operators
 - comparison operators
@@ -15,13 +15,13 @@ Expressions relay on things known as operators, so that ther allow programmers t
 - string operators
 ## Arithmetic operators
 JavaScript comprises the following mathematical operators (arithmetic operators):
-1. `+` adds one value to another
-1. `-` substracts one value from another
-1. `/` divides two values
-1. `*` multiplies two values
-1. `++` adds one to the current number
-1. `--` substracts one from the current number
-1. `%` divides two values and returns the reminder 
+- `+` adds one value to another
+- `-` substracts one value from another
+- `/` divides two values
+- `*` multiplies two values
+- `++` adds one to the current number
+- `--` substracts one from the current number
+- `%` divides two values and returns the reminder 
 ## String operator
 There is just one string operator: the `+` symbol. It is used to join the strings om either side of it. There are many cases where you may need to join two or more strings to create a single value. This process is called concatenation. 
 ## What is a function?
@@ -30,5 +30,7 @@ There is just one string operator: the `+` symbol. It is used to join the string
  To create a function, it needs to be given with a name and write a statement needed to achieve its task inside a curly braces. This process is known as **function declaration**. When a function is run/ executed to perform a task, it is called **calling the function**. When a function is called by its name, the statment represented by it will run. When a function is written and run, an answer will be given, the response is known as a **return value**. 
 
 ![funtion: methods and objects](Slide1.png)
+
+
 
 
