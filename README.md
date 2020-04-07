@@ -6,3 +6,4 @@
 1. [HTML notes](HTML-notes.md)
 1. [CSS note](CSS-notes.md)
 1. [note on JavaScript](JavaScripting-note.md)
+1. [note on functions](Function-notes.md)
